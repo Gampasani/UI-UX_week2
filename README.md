@@ -1,5 +1,4 @@
 # UI-UX_week2
-# UI-UX-intern_week2
 # UI/UX Design Project – E-commerce Product Page (Week 2)
 
 ## Overview
